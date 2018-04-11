@@ -39,7 +39,7 @@ Toda la información así como el control está disponible desde Internet
 
 ## Montaje
 
-## https://goo.gl/Yf3hrm
+## https://goo.gl/a7tvS3
 
 
 ## Hello Led y PC
